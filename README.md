@@ -1,0 +1,1 @@
+# Studi-Prediksi-Pasar-Saham-ASRI-Menggunakan-Metode-Linear-Regresi
