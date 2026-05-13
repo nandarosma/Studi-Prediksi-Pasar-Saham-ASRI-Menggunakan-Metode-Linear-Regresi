@@ -18,6 +18,20 @@ This project focuses on predicting stock price trends of PT ASRI using the Linea
 -Tools & Technologies
 Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
--How It Work
+-How It Works
 
+![Pickup by Hour](Conceptual_Framework.png)
 
+-Dataset
+
+Source: Kaggle
+Total Records: 1303 laptops
+##Company##
+TypeName
+CPU
+RAM
+GPU
+Storage
+Screen Resolution
+Weight
+OS
