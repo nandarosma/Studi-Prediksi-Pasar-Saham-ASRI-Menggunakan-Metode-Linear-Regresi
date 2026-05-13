@@ -16,7 +16,8 @@ Research Objectives
 4. Apply PySpark for big data analysis
 5. Visualize stock movement patterns effectively
 
--Tools & Technologies
+-Tools & Technologies:
+
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, PySpark
 
 -How It Works
