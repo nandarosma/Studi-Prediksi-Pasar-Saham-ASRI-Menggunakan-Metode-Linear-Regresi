@@ -16,7 +16,7 @@ This project focuses on predicting stock price trends of PT ASRI using the Linea
 4. Data-driven insights
 
 -Tools & Technologies
-Python, Pandas, NumPy, Matplotlib, Scikit-learn
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, PySpark
 
 -How It Works
 
@@ -35,7 +35,18 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 - **OS**
 
 Source: Kaggle
+
 Total Records: 1303 laptops
 
--visualization
-<p align="center"> <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800" width="30%"> <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=800" width="30%"> <img src="https://images.unsplash.com/photo-1559526324-593bc073d938?q=80&w=800" width="30%"> </p>
+-Methodology
+
+Linear Regression Model
+
+This project uses Linear Regression to model relationships between:
+
+Independent variables → historical stock data
+
+Dependent variable → stock price
+
+The model learns patterns from historical trends to predict future values.
+
