@@ -81,3 +81,7 @@ Although the prediction model still has limitations, the research provides usefu
 - *Investors*
 - *Financial analysis*
 - *Stock market studies*
+
+-Conclusion
+
+This research demonstrates that the Linear Regression method can be effectively used for stock trend analysis and prediction. The project also highlights the importance of data visualization and historical trend analysis in financial forecasting.
