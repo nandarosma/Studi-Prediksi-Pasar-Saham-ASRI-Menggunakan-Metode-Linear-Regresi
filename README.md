@@ -3,7 +3,7 @@
 Linear Regression Based Analysis
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python"> <img src="https://img.shields.io/badge/Data%20Analysis-EDA-orange"> <img src="https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-green"> <img src="https://img.shields.io/badge/Dataset-Stock%20Market-lightgrey"> <img src="https://img.shields.io/badge/Visualization-Matplotlib-yellow"> <img src="https://img.shields.io/badge/Tools-Pandas%20%7C%20NumPy-blue"> <img src="https://img.shields.io/badge/Status-Completed-success"> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python"> <img src="https://img.shields.io/badge/Data-Analysis-orange"> <img src="https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-green"> <img src="https://img.shields.io/badge/Dataset-Stock%20Market-lightgrey"> <img src="https://img.shields.io/badge/Tools-Pandas%20%7C%20Matplotlib-blue"> <img src="https://img.shields.io/badge/Status-Completed-success"> </p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1200" width="80%"> </p>
 
 -Overview
 
