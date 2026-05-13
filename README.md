@@ -24,8 +24,6 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
 -Dataset
 
-Source: Kaggle
-Total Records: 1303 laptops
 - **Company**
 - **TypeName**
 - **CPU**
@@ -36,4 +34,8 @@ Total Records: 1303 laptops
 - **Weight**
 - **OS**
 
--
+Source: Kaggle
+Total Records: 1303 laptops
+
+-visualization
+<p align="center"> <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=800" width="30%"> <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=800" width="30%"> <img src="https://images.unsplash.com/photo-1559526324-593bc073d938?q=80&w=800" width="30%"> </p>
