@@ -28,10 +28,12 @@ Source: Kaggle
 Total Records: 1303 laptops
 - **Company**
 - **TypeName**
-CPU
-RAM
-GPU
-Storage
-Screen Resolution
-Weight
-OS
+- **CPU**
+- **RAM**
+- **GPU**
+- **Storage**
+- **Screen Resolution**
+- **Weight**
+- **OS**
+
+-
