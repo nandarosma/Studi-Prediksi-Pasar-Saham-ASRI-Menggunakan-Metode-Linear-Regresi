@@ -26,8 +26,8 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
 Source: Kaggle
 Total Records: 1303 laptops
-##Company##
-TypeName
+**Company**
+**TypeName**
 CPU
 RAM
 GPU
