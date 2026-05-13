@@ -18,4 +18,6 @@ This project focuses on predicting stock price trends of PT ASRI using the Linea
 -Tools & Technologies
 Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
--
+-How It Work
+
+
